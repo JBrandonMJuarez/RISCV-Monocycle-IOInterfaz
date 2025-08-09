@@ -1,2 +1,2 @@
-# RISCV-Monocycle-IOInterfaz
+# RISCV-SingleCycle-IOInterfaz
 Implementation of IO Interfaz with RISC-V
